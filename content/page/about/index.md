@@ -1,34 +1,28 @@
 ---
-title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
-aliases:
-  - about-us
-  - about-hugo
-  - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+title: 关于我
+slug: about
 menu:
     main: 
-        weight: -90
+        weight: 4
         params:
-            icon: user
+            icon: link
+comments: false
+license: false
+readingTime: false
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+我是一名 .NET 软件开发工程师，喜欢学习及分享编程技术。你可以在 B 站找到我：[@十月的寒流](https://space.bilibili.com/600592)。
 
-Hugo makes use of a variety of open source projects including:
+我现在在学习的技术有：
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+- Avalonia UI
+- Blazor
+- PostgreSQL
+- Go
+- ……
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+平时的我喜欢学习语言（English、日本語），吹吹半音阶口琴，玩一些单机游戏，偶尔可能还会发点<a href="https://yunwuyue.xyz" target="_blank">牢骚</a>。学习语言之余，有时我还会翻译一些外语内容，和大家分享一些有趣的东西。
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+如果你想联系我，可以发送邮件到：[albedo.shade@proton.me](mailto:albedo.shade@proton.me)
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+当然，你也可以在本博客任意评论区留言，或者在 B 站视频评论区留言以及私信我。
